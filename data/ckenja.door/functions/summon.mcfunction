@@ -1,0 +1,1 @@
+summon marker ~ ~ ~ {Tags:["ckenja.door.marker"]}
